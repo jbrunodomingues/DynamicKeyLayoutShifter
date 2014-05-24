@@ -1,0 +1,12 @@
+#!/bin/bash
+
+  xmodmap -e "keycode 31 = Up Up Up NoSymbol Up"
+  xmodmap -e "keycode 45 = Down Down Down NoSymbol Down"
+  xmodmap -e "keycode 44 = Left Left Left NoSymbol Left "
+  xmodmap -e "keycode 46 = Right Right Right NoSymbol Right" 
+  xmodmap -e "keycode 30 = Home Home Home NoSymbol Home"
+  xmodmap -e "keycode 32 = End End End NoSymbol End"
+  xmodmap -e "keycode 33 = Prior Prior Prior NoSymbol Prior"
+  xmodmap -e "keycode 47 = Next Next Next NoSymbol Next"
+
+

@@ -1,0 +1,7 @@
+sudo apt-get install python-dev
+
+make setuptools-06.... executable and execute it
+
+download latest evdev or use this one and run 
+./setup.py build
+./setup.py install

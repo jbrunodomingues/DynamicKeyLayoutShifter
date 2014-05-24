@@ -1,0 +1,11 @@
+#!/bin/bash
+
+  xmodmap -e "keycode 31 = i I i I Up Up Up"
+  xmodmap -e "keycode 45 = k K k K Down Down Down"
+  xmodmap -e "keycode 44 = j J j J Left Left Left"
+  xmodmap -e "keycode 46 = l L l L Right Right Right"
+  xmodmap -e "keycode 30 = u U u U Home Home Home"
+  xmodmap -e "keycode 32 = o O o O End End End" 
+  xmodmap -e "keycode 33 = p P p P Prior Prior Prior"
+  xmodmap -e "keycode 47 = ccedilla Ccedilla ccedilla Ccedilla Next Next Next"
+
